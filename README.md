@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 안녕하세요, lim354235입니다!
 
 ![GitHub followers](https://img.shields.io/github/followers/lim354235?style=social)
