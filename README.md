@@ -24,28 +24,11 @@
 
 ## 🗂️ 대표 프로젝트
 
-### 📌 [프로젝트 이름 1](https://github.com/lim354235/프로젝트1)
-> 간단한 설명 (예: 실시간 채팅 웹 앱, React + Firebase 사용)
-
-### 📌 [프로젝트 이름 2](https://github.com/lim354235/프로젝트2)
-> 간단한 설명 (예: 날씨 정보 앱, Node.js + OpenWeatherMap API)
+### 📌 [없음]
+> 앞으로 만들어가겠습니다..
 
 ---
 
 ## 💬 한 마디
 
-> 개발은 즐거워야 오래간다. 끊임없이 배우고, 꾸준히 기록하며 성장하는 개발자가 되겠습니다. 🙌
-
-**lim354235/lim354235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 초보지만 열심히 하겠습니다. 🙌
