@@ -1,22 +1,57 @@
 ## Hi there 👋
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Hi&animation=&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=lim354235&custom_title=lim354235's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim354235&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
-    
+# 👋 안녕하세요, lim354235입니다!
 
-<!--
+![GitHub followers](https://img.shields.io/github/followers/lim354235?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/lim354235?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=lim354235&color=blueviolet)
+
+---
+
+## 🚀 About Me
+
+- 🔭 요즘엔 이런 걸 개발하고 있어요: `React`, `Node.js`, `TypeScript`
+- 🌱 배우는 중: `AI`, `Next.js`, `Three.js`
+- 🛠️ 기술 블로그 운영 중 (예시): [블로그 링크](https://yourblog.com)
+- 📫 연락처: lim354235@example.com
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
+---
+
+## 📈 GitHub Stats
+
+![lim354235's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim354235&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim354235&layout=compact&theme=tokyonight)](https://github.com/lim354235)
+
+---
+
+## 🗂️ 대표 프로젝트
+
+### 📌 [프로젝트 이름 1](https://github.com/lim354235/프로젝트1)
+> 간단한 설명 (예: 실시간 채팅 웹 앱, React + Firebase 사용)
+
+### 📌 [프로젝트 이름 2](https://github.com/lim354235/프로젝트2)
+> 간단한 설명 (예: 날씨 정보 앱, Node.js + OpenWeatherMap API)
+
+---
+
+## 💬 한 마디
+
+> 개발은 즐거워야 오래간다. 끊임없이 배우고, 꾸준히 기록하며 성장하는 개발자가 되겠습니다. 🙌
+
 **lim354235/lim354235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
